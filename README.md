@@ -1,0 +1,2 @@
+# HSPodspecs
+My Podspec repository
