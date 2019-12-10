@@ -73,7 +73,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/envoy/BRPtouchPrinterKit.git", :tag => "3.1.9" }
+  s.source       = { :git => "https://github.com/horseshoe7/BRPtouchPrinterKit.git", :tag => "3.1.9" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
